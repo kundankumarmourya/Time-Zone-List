@@ -1,9 +1,9 @@
-# Time Zone List
+# HTML Select List for All Timezones
 
 All world timezones in an HTML select element.
 
 ## html timezone dropdown
-List of time zones in <select> element
+List of time zones in <select> element.
 
 
 

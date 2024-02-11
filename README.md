@@ -2,7 +2,7 @@
 
 All world timezones in an HTML select element
 
-## Installation
+## html timezone dropdown
 
 
 
